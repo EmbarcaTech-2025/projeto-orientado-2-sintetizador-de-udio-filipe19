@@ -140,8 +140,6 @@ sintetizador_audio/
   * Como seria possível gravar áudios mais extensos, considerando as limitações de memória da Pico (e.g., usando um cartão SD)?
 
 -----
-
-Espero que este `README.md` seja muito útil para o seu projeto\! Ele cobre todos os pontos importantes e facilita a compreensão para qualquer pessoa que o veja no GitHub.
 ---
 
 ## 📜 Licença
